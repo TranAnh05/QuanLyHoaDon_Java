@@ -1,0 +1,5 @@
+hd1;Tran Van Anh;2024-10-20;20;10.0;Kinh Doanh;20
+hd2;Tran Van Phap;2024-11-20;20;11.0;sinh hoat;20
+hd4;Jessica;2024-12-20;200;111.0;Nuoc Ngoai
+hd3;Cristianal Ronaldo;2023-02-20;100;30.0;Nuoc Ngoai
+hd5;Huynh Nhut;2003-10-20;20;10.0;Sinh Hoat;20
